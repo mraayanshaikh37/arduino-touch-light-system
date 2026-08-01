@@ -180,4 +180,6 @@ Building practical embedded systems, IoT prototypes, and hardware projects throu
 
 # 📄 License
 
-This project is shared for educational and learning purposes.ject is shared for educational and learning 
+This project is shared for educational and learning purposes.
+
+Feel free to explore, learn from, and build upon the ideas presented here.
